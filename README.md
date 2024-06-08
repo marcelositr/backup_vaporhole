@@ -17,10 +17,10 @@ Este script Bash foi desenvolvido para automatizar o processo de backup dos arqu
    `git clone https://github.com/marcelositr/backup_vaporhole.git`
 
 2. Navegue até o diretório do script:
-   `cd script-backup-automatico`
+   `cd backup_vaporhole`
 
 3. Dê permissão de execução ao script:
-   `chmod +x backup.sh`
+   `chmod +x backup_vaporhole.sh`
 
 4. Execute o script:
    `./backup_vaporhole.sh`
@@ -56,10 +56,10 @@ Email Notifications: Sends email notifications about backup status.
    `git clone https://github.com/marcelositr/backup_vaporhole.git`
 
 2. Navigate to the script directory:
-   `cd automatic-backup-script`
+   `cd backup_vaporhole`
 
 3. Give execution permission to the script:
-   `chmod +x backup.sh`
+   `chmod +x backup_vaporhole.sh`
 
 4. Run the script:
    `./backup_vaporhole.sh`
