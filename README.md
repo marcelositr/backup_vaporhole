@@ -14,7 +14,7 @@ Este script Bash foi desenvolvido para automatizar o processo de backup dos arqu
 
 1. Clone este repositório:
    ```bash
-   `git clone https://github.com/seuusuario/script-backup-automatico.git`
+   `git clone https://github.com/marcelositr/backup_vaporhole.git`
 
 2. Navegue até o diretório do script:
    `cd script-backup-automatico`
@@ -53,7 +53,7 @@ Email Notifications: Sends email notifications about backup status.
 
 ### How to Use
 1. Clone this repository:
-   `git clone https://github.com/yourusername/automatic-backup-script.git`
+   `git clone https://github.com/marcelositr/backup_vaporhole.git`
 
 2. Navigate to the script directory:
    `cd automatic-backup-script`
