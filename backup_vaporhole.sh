@@ -5,11 +5,10 @@
 #
 #         USAGE: ./backup_vaporhole.sh [-e] [-h | --help]
 #
-#   DESCRIPTION: This script creates a backup of the user's home directory.
-#                The backup is created in tar.gz format and named with the format
-#                (username)-YYYY-MM-DD_HH-MM-SS.tar.gz.
-#                Only the last 10 backups are kept.
-#                The user can choose to encrypt the backup using GPG.
+#   DESCRIPTION: This script creates a backup of the user's home directory.  The
+#                backup is created in tar.gz format and named  with  the  format
+#                (username)-YYYY-MM-DD_HH-MM-SS.tar.gz. Only the last 10 backups
+#                are kept. The user can choose to encrypt the backup using GPG.
 #
 #       OPTIONS: -e to encrypt the backup
 #                -h, --help to display this help message
